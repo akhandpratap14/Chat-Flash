@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12527761530",
+    "project_id": "chat-flash-6f8c4",
+    "storage_bucket": "chat-flash-6f8c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12527761530:android:c299bee15844e065d1a3c3",
+        "android_client_info": {
+          "package_name": "com.AsusRoss.chatflash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12527761530-1taavalvl41i4gkg9rkvp0glldk8q5m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_lH5Mu0GJ4CMq3SE53951PHA6yOWv74I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12527761530-1taavalvl41i4gkg9rkvp0glldk8q5m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
